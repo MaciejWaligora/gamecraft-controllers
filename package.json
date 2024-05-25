@@ -1,0 +1,28 @@
+{
+  "name": "gamecraft-controllers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaciejWaligora/gamecraft-controllers.git"
+  },
+  "author": "Maciej Waligora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaciejWaligora/gamecraft-controllers/issues"
+  },
+  "homepage": "https://github.com/MaciejWaligora/gamecraft-controllers#readme",
+  "dependencies": {
+    "gamecraft-animation": "^1.4.0",
+    "gamecraft-model": "^1.0.0",
+    "gamecraft-view": "^1.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
